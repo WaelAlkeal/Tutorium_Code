@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Wael/Tutorium/SS26/MT/Tutorium_Code/cmake-build-debug/cmake_install.cmake",
+		"C:/Wael/Tutorium/SS26/MT/Tutorium_Code/cmake-build-debug/src/cmake_install.cmake",
+		"C:/Wael/Tutorium/SS26/MT/Tutorium_Code/cmake-build-debug/test/cmake_install.cmake",
+		"C:/Wael/Tutorium/SS26/MT/Tutorium_Code/cmake-build-debug/test/lib/cmake_install.cmake",
+		"C:/Wael/Tutorium/SS26/MT/Tutorium_Code/cmake-build-debug/test/lib/googlemock/cmake_install.cmake",
+		"C:/Wael/Tutorium/SS26/MT/Tutorium_Code/cmake-build-debug/test/lib/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

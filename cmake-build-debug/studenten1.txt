@@ -1,0 +1,12 @@
+Name;Matrikelnummer;Leistungspunkte
+Max Mustermann;10001;180
+Lisa Koenig;10002;150
+Ahmad Alami;10003;120
+Sophie Maeller;10004;200
+Ali Demir;10005;170
+Jonas Weber;10006;90
+Lena Schneider;10007;160
+Tobias Braun;10008;130
+Nina Hoffmann;10009;140
+Fatima Yilmaz;10010;110
+Ahmad;20002;10
