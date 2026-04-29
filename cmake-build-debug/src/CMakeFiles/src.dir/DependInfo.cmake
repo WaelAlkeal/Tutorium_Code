@@ -9,6 +9,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Wael/Tutorium/SS26/MT/Tutorium_Code/src/Dummy.cpp" "src/CMakeFiles/src.dir/Dummy.cpp.obj" "gcc" "src/CMakeFiles/src.dir/Dummy.cpp.obj.d"
+  "C:/Wael/Tutorium/SS26/MT/Tutorium_Code/src/Person.cpp" "src/CMakeFiles/src.dir/Person.cpp.obj" "gcc" "src/CMakeFiles/src.dir/Person.cpp.obj.d"
+  "C:/Wael/Tutorium/SS26/MT/Tutorium_Code/src/Taschenrechner.cpp" "src/CMakeFiles/src.dir/Taschenrechner.cpp.obj" "gcc" "src/CMakeFiles/src.dir/Taschenrechner.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

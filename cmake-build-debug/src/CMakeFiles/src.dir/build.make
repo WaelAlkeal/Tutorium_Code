@@ -86,17 +86,51 @@ src/CMakeFiles/src.dir/Dummy.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/src.dir/Dummy.cpp.s"
 	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\src && C:\PROGRA~1\JETBRA~1\CLION2~1.5\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Wael\Tutorium\SS26\MT\Tutorium_Code\src\Dummy.cpp -o CMakeFiles\src.dir\Dummy.cpp.s
 
+src/CMakeFiles/src.dir/Person.cpp.obj: src/CMakeFiles/src.dir/flags.make
+src/CMakeFiles/src.dir/Person.cpp.obj: src/CMakeFiles/src.dir/includes_CXX.rsp
+src/CMakeFiles/src.dir/Person.cpp.obj: C:/Wael/Tutorium/SS26/MT/Tutorium_Code/src/Person.cpp
+src/CMakeFiles/src.dir/Person.cpp.obj: src/CMakeFiles/src.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/src.dir/Person.cpp.obj"
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\src && C:\PROGRA~1\JETBRA~1\CLION2~1.5\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/src.dir/Person.cpp.obj -MF CMakeFiles\src.dir\Person.cpp.obj.d -o CMakeFiles\src.dir\Person.cpp.obj -c C:\Wael\Tutorium\SS26\MT\Tutorium_Code\src\Person.cpp
+
+src/CMakeFiles/src.dir/Person.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/src.dir/Person.cpp.i"
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\src && C:\PROGRA~1\JETBRA~1\CLION2~1.5\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Wael\Tutorium\SS26\MT\Tutorium_Code\src\Person.cpp > CMakeFiles\src.dir\Person.cpp.i
+
+src/CMakeFiles/src.dir/Person.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/src.dir/Person.cpp.s"
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\src && C:\PROGRA~1\JETBRA~1\CLION2~1.5\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Wael\Tutorium\SS26\MT\Tutorium_Code\src\Person.cpp -o CMakeFiles\src.dir\Person.cpp.s
+
+src/CMakeFiles/src.dir/Taschenrechner.cpp.obj: src/CMakeFiles/src.dir/flags.make
+src/CMakeFiles/src.dir/Taschenrechner.cpp.obj: src/CMakeFiles/src.dir/includes_CXX.rsp
+src/CMakeFiles/src.dir/Taschenrechner.cpp.obj: C:/Wael/Tutorium/SS26/MT/Tutorium_Code/src/Taschenrechner.cpp
+src/CMakeFiles/src.dir/Taschenrechner.cpp.obj: src/CMakeFiles/src.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/CMakeFiles/src.dir/Taschenrechner.cpp.obj"
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\src && C:\PROGRA~1\JETBRA~1\CLION2~1.5\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/src.dir/Taschenrechner.cpp.obj -MF CMakeFiles\src.dir\Taschenrechner.cpp.obj.d -o CMakeFiles\src.dir\Taschenrechner.cpp.obj -c C:\Wael\Tutorium\SS26\MT\Tutorium_Code\src\Taschenrechner.cpp
+
+src/CMakeFiles/src.dir/Taschenrechner.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/src.dir/Taschenrechner.cpp.i"
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\src && C:\PROGRA~1\JETBRA~1\CLION2~1.5\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Wael\Tutorium\SS26\MT\Tutorium_Code\src\Taschenrechner.cpp > CMakeFiles\src.dir\Taschenrechner.cpp.i
+
+src/CMakeFiles/src.dir/Taschenrechner.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/src.dir/Taschenrechner.cpp.s"
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\src && C:\PROGRA~1\JETBRA~1\CLION2~1.5\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Wael\Tutorium\SS26\MT\Tutorium_Code\src\Taschenrechner.cpp -o CMakeFiles\src.dir\Taschenrechner.cpp.s
+
 # Object files for target src
 src_OBJECTS = \
-"CMakeFiles/src.dir/Dummy.cpp.obj"
+"CMakeFiles/src.dir/Dummy.cpp.obj" \
+"CMakeFiles/src.dir/Person.cpp.obj" \
+"CMakeFiles/src.dir/Taschenrechner.cpp.obj"
 
 # External object files for target src
 src_EXTERNAL_OBJECTS =
 
 src/libsrc.a: src/CMakeFiles/src.dir/Dummy.cpp.obj
+src/libsrc.a: src/CMakeFiles/src.dir/Person.cpp.obj
+src/libsrc.a: src/CMakeFiles/src.dir/Taschenrechner.cpp.obj
 src/libsrc.a: src/CMakeFiles/src.dir/build.make
 src/libsrc.a: src/CMakeFiles/src.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libsrc.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX static library libsrc.a"
 	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\src && $(CMAKE_COMMAND) -P CMakeFiles\src.dir\cmake_clean_target.cmake
 	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\src.dir\link.txt --verbose=$(VERBOSE)
 

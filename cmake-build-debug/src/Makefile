@@ -198,6 +198,54 @@ Dummy.cpp.s:
 	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Dummy.cpp.s
 .PHONY : Dummy.cpp.s
 
+Person.obj: Person.cpp.obj
+.PHONY : Person.obj
+
+# target to build an object file
+Person.cpp.obj:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Person.cpp.obj
+.PHONY : Person.cpp.obj
+
+Person.i: Person.cpp.i
+.PHONY : Person.i
+
+# target to preprocess a source file
+Person.cpp.i:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Person.cpp.i
+.PHONY : Person.cpp.i
+
+Person.s: Person.cpp.s
+.PHONY : Person.s
+
+# target to generate assembly for a file
+Person.cpp.s:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Person.cpp.s
+.PHONY : Person.cpp.s
+
+Taschenrechner.obj: Taschenrechner.cpp.obj
+.PHONY : Taschenrechner.obj
+
+# target to build an object file
+Taschenrechner.cpp.obj:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Taschenrechner.cpp.obj
+.PHONY : Taschenrechner.cpp.obj
+
+Taschenrechner.i: Taschenrechner.cpp.i
+.PHONY : Taschenrechner.i
+
+# target to preprocess a source file
+Taschenrechner.cpp.i:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Taschenrechner.cpp.i
+.PHONY : Taschenrechner.cpp.i
+
+Taschenrechner.s: Taschenrechner.cpp.s
+.PHONY : Taschenrechner.s
+
+# target to generate assembly for a file
+Taschenrechner.cpp.s:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Taschenrechner.cpp.s
+.PHONY : Taschenrechner.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -214,6 +262,12 @@ help:
 	@echo ... Dummy.obj
 	@echo ... Dummy.i
 	@echo ... Dummy.s
+	@echo ... Person.obj
+	@echo ... Person.i
+	@echo ... Person.s
+	@echo ... Taschenrechner.obj
+	@echo ... Taschenrechner.i
+	@echo ... Taschenrechner.s
 .PHONY : help
 
 
