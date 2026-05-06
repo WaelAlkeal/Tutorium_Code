@@ -222,6 +222,30 @@ Person.cpp.s:
 	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Person.cpp.s
 .PHONY : Person.cpp.s
 
+PersonFSM.obj: PersonFSM.cpp.obj
+.PHONY : PersonFSM.obj
+
+# target to build an object file
+PersonFSM.cpp.obj:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/PersonFSM.cpp.obj
+.PHONY : PersonFSM.cpp.obj
+
+PersonFSM.i: PersonFSM.cpp.i
+.PHONY : PersonFSM.i
+
+# target to preprocess a source file
+PersonFSM.cpp.i:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/PersonFSM.cpp.i
+.PHONY : PersonFSM.cpp.i
+
+PersonFSM.s: PersonFSM.cpp.s
+.PHONY : PersonFSM.s
+
+# target to generate assembly for a file
+PersonFSM.cpp.s:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/PersonFSM.cpp.s
+.PHONY : PersonFSM.cpp.s
+
 Taschenrechner.obj: Taschenrechner.cpp.obj
 .PHONY : Taschenrechner.obj
 
@@ -265,6 +289,9 @@ help:
 	@echo ... Person.obj
 	@echo ... Person.i
 	@echo ... Person.s
+	@echo ... PersonFSM.obj
+	@echo ... PersonFSM.i
+	@echo ... PersonFSM.s
 	@echo ... Taschenrechner.obj
 	@echo ... Taschenrechner.i
 	@echo ... Taschenrechner.s

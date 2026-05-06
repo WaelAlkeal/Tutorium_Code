@@ -6,10 +6,9 @@
 
 
 
-/*TEST(, ) {
+/*TEST(PersonTS,KonstruktorTS ) {
 
+    EXPECT_EQ(var1,var2);
 
-
-
-
+}
 */

@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/src.dir/Dummy.cpp.obj.d"
   "CMakeFiles/src.dir/Person.cpp.obj"
   "CMakeFiles/src.dir/Person.cpp.obj.d"
+  "CMakeFiles/src.dir/PersonFSM.cpp.obj"
+  "CMakeFiles/src.dir/PersonFSM.cpp.obj.d"
   "CMakeFiles/src.dir/Taschenrechner.cpp.obj"
   "CMakeFiles/src.dir/Taschenrechner.cpp.obj.d"
   "libsrc.a"

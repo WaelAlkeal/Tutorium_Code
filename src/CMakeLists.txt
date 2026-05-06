@@ -7,6 +7,8 @@ set(SOURCE_FILES
         Person.h
         Taschenrechner.cpp
         Taschenrechner.h
+        PersonFSM.cpp
+        PersonFSM.h
 
 )
 

@@ -89,4 +89,4 @@ src/CMakeFiles/src.dir/PersonFSM.cpp.obj: \
  C:/Program\ Files/JetBrains/CLion\ 2024.3.5/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.3.5/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.3.5/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
- C:\Wael\Tutorium\SS26\MT\Tutorium_Code\src\Taschenrechner.h
+ C:/Wael/Tutorium/SS26/MT/Tutorium_Code/src/Taschenrechner.h
