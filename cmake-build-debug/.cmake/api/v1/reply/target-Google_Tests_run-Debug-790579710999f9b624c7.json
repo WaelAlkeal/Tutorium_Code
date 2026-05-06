@@ -115,11 +115,11 @@
 		},
 		{
 			"backtrace" : 3,
-			"id" : "gtest_main::@838963ba4e42fda1c95a"
+			"id" : "gtest::@838963ba4e42fda1c95a"
 		},
 		{
 			"backtrace" : 3,
-			"id" : "gtest::@838963ba4e42fda1c95a"
+			"id" : "gtest_main::@838963ba4e42fda1c95a"
 		}
 	],
 	"id" : "Google_Tests_run::@36f028580bb02cc8272a",
