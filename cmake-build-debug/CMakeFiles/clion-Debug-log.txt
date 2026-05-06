@@ -26,6 +26,6 @@ CMake Deprecation Warning at test/lib/googletest/CMakeLists.txt:49 (cmake_minimu
   to work with policies introduced by <max> or earlier.
 
 
--- Configuring done (0.5s)
+-- Configuring done (0.6s)
 -- Generating done (0.3s)
 -- Build files have been written to: C:/Wael/Tutorium/SS26/MT/Tutorium_Code/cmake-build-debug
