@@ -198,6 +198,30 @@ Dummy.cpp.s:
 	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Dummy.cpp.s
 .PHONY : Dummy.cpp.s
 
+SmartDevice.obj: SmartDevice.cpp.obj
+.PHONY : SmartDevice.obj
+
+# target to build an object file
+SmartDevice.cpp.obj:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/SmartDevice.cpp.obj
+.PHONY : SmartDevice.cpp.obj
+
+SmartDevice.i: SmartDevice.cpp.i
+.PHONY : SmartDevice.i
+
+# target to preprocess a source file
+SmartDevice.cpp.i:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/SmartDevice.cpp.i
+.PHONY : SmartDevice.cpp.i
+
+SmartDevice.s: SmartDevice.cpp.s
+.PHONY : SmartDevice.s
+
+# target to generate assembly for a file
+SmartDevice.cpp.s:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/SmartDevice.cpp.s
+.PHONY : SmartDevice.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -214,6 +238,9 @@ help:
 	@echo ... Dummy.obj
 	@echo ... Dummy.i
 	@echo ... Dummy.s
+	@echo ... SmartDevice.obj
+	@echo ... SmartDevice.i
+	@echo ... SmartDevice.s
 .PHONY : help
 
 
