@@ -1715,43 +1715,19 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/waela/AppData/Local/Programs/Python/Python313/python.exe"
+			"value" : "_Python_EXECUTABLE-NOTFOUND"
 		},
 		{
-			"name" : "_Python_EXECUTABLE_DEBUG",
+			"name" : "_Python_Interpreter_REASON_FAILURE",
 			"properties" : 
 			[
 				{
 					"name" : "HELPSTRING",
-					"value" : "Path to a program."
+					"value" : "Interpreter reason failure"
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "_Python_EXECUTABLE_DEBUG-NOTFOUND"
-		},
-		{
-			"name" : "_Python_INTERPRETER_PROPERTIES",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Python Properties"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "Python;3;13;5;64;32;<none>;cp313-win_amd64;;C:\\Users\\waela\\AppData\\Local\\Programs\\Python\\Python313\\Lib;C:\\Users\\waela\\AppData\\Local\\Programs\\Python\\Python313\\Lib;C:\\Users\\waela\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages;C:\\Users\\waela\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages"
-		},
-		{
-			"name" : "_Python_INTERPRETER_SIGNATURE",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "4e43be14fc960c69d319b167d62828b9"
+			"value" : ""
 		},
 		{
 			"name" : "_Python_NumPy_REASON_FAILURE",
