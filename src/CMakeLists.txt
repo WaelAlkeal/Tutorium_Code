@@ -1,8 +1,6 @@
 project(src)
 
 set(SOURCE_FILES
-        Dummy.cpp
-        Dummy.h
         Person.cpp
         Person.h
         Taschenrechner.cpp
