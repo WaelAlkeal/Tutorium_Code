@@ -1,8 +1,6 @@
 project(src)
 
 set(SOURCE_FILES
-        Dummy.cpp
-        Dummy.h
         SmartDevice.cpp
         SmartDevice.h
 
