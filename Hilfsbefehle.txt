@@ -1,0 +1,14 @@
+git branch -a
+
+git checkout tutorium1
+Oder
+git switch tutorium1
+
+git stash
+git checkout tutorium1
+spaeter
+git stash pop
+
+
+git reset --hard
+git checkout tutorium1
