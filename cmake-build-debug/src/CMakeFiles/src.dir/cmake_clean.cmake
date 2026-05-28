@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/src.dir/SmartDevice.cpp.obj"
   "CMakeFiles/src.dir/SmartDevice.cpp.obj.d"
+  "CMakeFiles/src.dir/SmartDeviceFSM.cpp.obj"
+  "CMakeFiles/src.dir/SmartDeviceFSM.cpp.obj.d"
   "libsrc.a"
   "libsrc.pdb"
 )

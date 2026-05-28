@@ -3,6 +3,8 @@ project(src)
 set(SOURCE_FILES
         SmartDevice.cpp
         SmartDevice.h
+        SmartDeviceFSM.cpp
+        SmartDeviceFSM.h
 
 )
 

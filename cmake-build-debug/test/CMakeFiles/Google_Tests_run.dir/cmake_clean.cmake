@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Google_Tests_run.dir/Smartdevice_test.cpp.obj"
+  "CMakeFiles/Google_Tests_run.dir/Smartdevice_test.cpp.obj.d"
   "CMakeFiles/Google_Tests_run.dir/test1.cpp.obj"
   "CMakeFiles/Google_Tests_run.dir/test1.cpp.obj.d"
   "Google_Tests_run.exe"
