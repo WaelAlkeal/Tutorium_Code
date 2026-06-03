@@ -174,6 +174,30 @@ Google_Tests_run/fast:
 	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f test\CMakeFiles\Google_Tests_run.dir\build.make test/CMakeFiles/Google_Tests_run.dir/build
 .PHONY : Google_Tests_run/fast
 
+SmartDeviceFSM_test.obj: SmartDeviceFSM_test.cpp.obj
+.PHONY : SmartDeviceFSM_test.obj
+
+# target to build an object file
+SmartDeviceFSM_test.cpp.obj:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f test\CMakeFiles\Google_Tests_run.dir\build.make test/CMakeFiles/Google_Tests_run.dir/SmartDeviceFSM_test.cpp.obj
+.PHONY : SmartDeviceFSM_test.cpp.obj
+
+SmartDeviceFSM_test.i: SmartDeviceFSM_test.cpp.i
+.PHONY : SmartDeviceFSM_test.i
+
+# target to preprocess a source file
+SmartDeviceFSM_test.cpp.i:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f test\CMakeFiles\Google_Tests_run.dir\build.make test/CMakeFiles/Google_Tests_run.dir/SmartDeviceFSM_test.cpp.i
+.PHONY : SmartDeviceFSM_test.cpp.i
+
+SmartDeviceFSM_test.s: SmartDeviceFSM_test.cpp.s
+.PHONY : SmartDeviceFSM_test.s
+
+# target to generate assembly for a file
+SmartDeviceFSM_test.cpp.s:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f test\CMakeFiles\Google_Tests_run.dir\build.make test/CMakeFiles/Google_Tests_run.dir/SmartDeviceFSM_test.cpp.s
+.PHONY : SmartDeviceFSM_test.cpp.s
+
 Smartdevice_test.obj: Smartdevice_test.cpp.obj
 .PHONY : Smartdevice_test.obj
 
@@ -235,6 +259,9 @@ help:
 	@echo ... list_install_components
 	@echo ... rebuild_cache
 	@echo ... Google_Tests_run
+	@echo ... SmartDeviceFSM_test.obj
+	@echo ... SmartDeviceFSM_test.i
+	@echo ... SmartDeviceFSM_test.s
 	@echo ... Smartdevice_test.obj
 	@echo ... Smartdevice_test.i
 	@echo ... Smartdevice_test.s

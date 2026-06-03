@@ -1,5 +1,5 @@
-test/CMakeFiles/Google_Tests_run.dir/test1.cpp.obj: \
- C:\Wael\Tutorium\SS26\MT\Tutorium_Code\test\test1.cpp \
+test/CMakeFiles/Google_Tests_run.dir/Smartdevice_test.cpp.obj: \
+ C:\Wael\Tutorium\SS26\MT\Tutorium_Code\test\Smartdevice_test.cpp \
  C:/Wael/Tutorium/SS26/MT/Tutorium_Code/test/lib/googletest/include/gtest/gtest.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.3.5/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
  C:/Program\ Files/JetBrains/CLion\ 2024.3.5/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
@@ -225,4 +225,5 @@ test/CMakeFiles/Google_Tests_run.dir/test1.cpp.obj: \
  C:/Wael/Tutorium/SS26/MT/Tutorium_Code/test/lib/googletest/include/gtest/gtest-test-part.h \
  C:/Wael/Tutorium/SS26/MT/Tutorium_Code/test/lib/googletest/include/gtest/gtest-typed-test.h \
  C:/Wael/Tutorium/SS26/MT/Tutorium_Code/test/lib/googletest/include/gtest/gtest_pred_impl.h \
- C:/Wael/Tutorium/SS26/MT/Tutorium_Code/test/lib/googletest/include/gtest/gtest_prod.h
+ C:/Wael/Tutorium/SS26/MT/Tutorium_Code/test/lib/googletest/include/gtest/gtest_prod.h \
+ C:/Wael/Tutorium/SS26/MT/Tutorium_Code/src/SmartDevice.h
