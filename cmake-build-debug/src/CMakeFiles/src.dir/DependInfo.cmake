@@ -8,7 +8,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "C:/Wael/Tutorium/SS26/MT/Tutorium_Code/src/Dreieck.cpp" "src/CMakeFiles/src.dir/Dreieck.cpp.obj" "gcc" "src/CMakeFiles/src.dir/Dreieck.cpp.obj.d"
   "C:/Wael/Tutorium/SS26/MT/Tutorium_Code/src/Dummy.cpp" "src/CMakeFiles/src.dir/Dummy.cpp.obj" "gcc" "src/CMakeFiles/src.dir/Dummy.cpp.obj.d"
+  "C:/Wael/Tutorium/SS26/MT/Tutorium_Code/src/Kreis.cpp" "src/CMakeFiles/src.dir/Kreis.cpp.obj" "gcc" "src/CMakeFiles/src.dir/Kreis.cpp.obj.d"
+  "C:/Wael/Tutorium/SS26/MT/Tutorium_Code/src/Rechteck.cpp" "src/CMakeFiles/src.dir/Rechteck.cpp.obj" "gcc" "src/CMakeFiles/src.dir/Rechteck.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

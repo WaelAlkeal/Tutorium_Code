@@ -86,17 +86,68 @@ src/CMakeFiles/src.dir/Dummy.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/src.dir/Dummy.cpp.s"
 	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\src && C:\PROGRA~1\JETBRA~1\CLION2~1.5\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Wael\Tutorium\SS26\MT\Tutorium_Code\src\Dummy.cpp -o CMakeFiles\src.dir\Dummy.cpp.s
 
+src/CMakeFiles/src.dir/Kreis.cpp.obj: src/CMakeFiles/src.dir/flags.make
+src/CMakeFiles/src.dir/Kreis.cpp.obj: src/CMakeFiles/src.dir/includes_CXX.rsp
+src/CMakeFiles/src.dir/Kreis.cpp.obj: C:/Wael/Tutorium/SS26/MT/Tutorium_Code/src/Kreis.cpp
+src/CMakeFiles/src.dir/Kreis.cpp.obj: src/CMakeFiles/src.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/src.dir/Kreis.cpp.obj"
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\src && C:\PROGRA~1\JETBRA~1\CLION2~1.5\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/src.dir/Kreis.cpp.obj -MF CMakeFiles\src.dir\Kreis.cpp.obj.d -o CMakeFiles\src.dir\Kreis.cpp.obj -c C:\Wael\Tutorium\SS26\MT\Tutorium_Code\src\Kreis.cpp
+
+src/CMakeFiles/src.dir/Kreis.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/src.dir/Kreis.cpp.i"
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\src && C:\PROGRA~1\JETBRA~1\CLION2~1.5\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Wael\Tutorium\SS26\MT\Tutorium_Code\src\Kreis.cpp > CMakeFiles\src.dir\Kreis.cpp.i
+
+src/CMakeFiles/src.dir/Kreis.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/src.dir/Kreis.cpp.s"
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\src && C:\PROGRA~1\JETBRA~1\CLION2~1.5\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Wael\Tutorium\SS26\MT\Tutorium_Code\src\Kreis.cpp -o CMakeFiles\src.dir\Kreis.cpp.s
+
+src/CMakeFiles/src.dir/Dreieck.cpp.obj: src/CMakeFiles/src.dir/flags.make
+src/CMakeFiles/src.dir/Dreieck.cpp.obj: src/CMakeFiles/src.dir/includes_CXX.rsp
+src/CMakeFiles/src.dir/Dreieck.cpp.obj: C:/Wael/Tutorium/SS26/MT/Tutorium_Code/src/Dreieck.cpp
+src/CMakeFiles/src.dir/Dreieck.cpp.obj: src/CMakeFiles/src.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/CMakeFiles/src.dir/Dreieck.cpp.obj"
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\src && C:\PROGRA~1\JETBRA~1\CLION2~1.5\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/src.dir/Dreieck.cpp.obj -MF CMakeFiles\src.dir\Dreieck.cpp.obj.d -o CMakeFiles\src.dir\Dreieck.cpp.obj -c C:\Wael\Tutorium\SS26\MT\Tutorium_Code\src\Dreieck.cpp
+
+src/CMakeFiles/src.dir/Dreieck.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/src.dir/Dreieck.cpp.i"
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\src && C:\PROGRA~1\JETBRA~1\CLION2~1.5\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Wael\Tutorium\SS26\MT\Tutorium_Code\src\Dreieck.cpp > CMakeFiles\src.dir\Dreieck.cpp.i
+
+src/CMakeFiles/src.dir/Dreieck.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/src.dir/Dreieck.cpp.s"
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\src && C:\PROGRA~1\JETBRA~1\CLION2~1.5\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Wael\Tutorium\SS26\MT\Tutorium_Code\src\Dreieck.cpp -o CMakeFiles\src.dir\Dreieck.cpp.s
+
+src/CMakeFiles/src.dir/Rechteck.cpp.obj: src/CMakeFiles/src.dir/flags.make
+src/CMakeFiles/src.dir/Rechteck.cpp.obj: src/CMakeFiles/src.dir/includes_CXX.rsp
+src/CMakeFiles/src.dir/Rechteck.cpp.obj: C:/Wael/Tutorium/SS26/MT/Tutorium_Code/src/Rechteck.cpp
+src/CMakeFiles/src.dir/Rechteck.cpp.obj: src/CMakeFiles/src.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/CMakeFiles/src.dir/Rechteck.cpp.obj"
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\src && C:\PROGRA~1\JETBRA~1\CLION2~1.5\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/src.dir/Rechteck.cpp.obj -MF CMakeFiles\src.dir\Rechteck.cpp.obj.d -o CMakeFiles\src.dir\Rechteck.cpp.obj -c C:\Wael\Tutorium\SS26\MT\Tutorium_Code\src\Rechteck.cpp
+
+src/CMakeFiles/src.dir/Rechteck.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/src.dir/Rechteck.cpp.i"
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\src && C:\PROGRA~1\JETBRA~1\CLION2~1.5\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Wael\Tutorium\SS26\MT\Tutorium_Code\src\Rechteck.cpp > CMakeFiles\src.dir\Rechteck.cpp.i
+
+src/CMakeFiles/src.dir/Rechteck.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/src.dir/Rechteck.cpp.s"
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\src && C:\PROGRA~1\JETBRA~1\CLION2~1.5\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Wael\Tutorium\SS26\MT\Tutorium_Code\src\Rechteck.cpp -o CMakeFiles\src.dir\Rechteck.cpp.s
+
 # Object files for target src
 src_OBJECTS = \
-"CMakeFiles/src.dir/Dummy.cpp.obj"
+"CMakeFiles/src.dir/Dummy.cpp.obj" \
+"CMakeFiles/src.dir/Kreis.cpp.obj" \
+"CMakeFiles/src.dir/Dreieck.cpp.obj" \
+"CMakeFiles/src.dir/Rechteck.cpp.obj"
 
 # External object files for target src
 src_EXTERNAL_OBJECTS =
 
 src/libsrc.a: src/CMakeFiles/src.dir/Dummy.cpp.obj
+src/libsrc.a: src/CMakeFiles/src.dir/Kreis.cpp.obj
+src/libsrc.a: src/CMakeFiles/src.dir/Dreieck.cpp.obj
+src/libsrc.a: src/CMakeFiles/src.dir/Rechteck.cpp.obj
 src/libsrc.a: src/CMakeFiles/src.dir/build.make
 src/libsrc.a: src/CMakeFiles/src.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libsrc.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX static library libsrc.a"
 	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\src && $(CMAKE_COMMAND) -P CMakeFiles\src.dir\cmake_clean_target.cmake
 	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug\src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\src.dir\link.txt --verbose=$(VERBOSE)
 

@@ -1,2 +1,2 @@
-C:\PROGRA~1\JETBRA~1\CLION2~1.5\bin\mingw\bin\ar.exe qc libsrc.a CMakeFiles/src.dir/Dummy.cpp.obj
+C:\PROGRA~1\JETBRA~1\CLION2~1.5\bin\mingw\bin\ar.exe qc libsrc.a CMakeFiles/src.dir/Dummy.cpp.obj CMakeFiles/src.dir/Kreis.cpp.obj CMakeFiles/src.dir/Dreieck.cpp.obj CMakeFiles/src.dir/Rechteck.cpp.obj
 C:\PROGRA~1\JETBRA~1\CLION2~1.5\bin\mingw\bin\ranlib.exe libsrc.a

@@ -174,6 +174,30 @@ src/fast:
 	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/build
 .PHONY : src/fast
 
+Dreieck.obj: Dreieck.cpp.obj
+.PHONY : Dreieck.obj
+
+# target to build an object file
+Dreieck.cpp.obj:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Dreieck.cpp.obj
+.PHONY : Dreieck.cpp.obj
+
+Dreieck.i: Dreieck.cpp.i
+.PHONY : Dreieck.i
+
+# target to preprocess a source file
+Dreieck.cpp.i:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Dreieck.cpp.i
+.PHONY : Dreieck.cpp.i
+
+Dreieck.s: Dreieck.cpp.s
+.PHONY : Dreieck.s
+
+# target to generate assembly for a file
+Dreieck.cpp.s:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Dreieck.cpp.s
+.PHONY : Dreieck.cpp.s
+
 Dummy.obj: Dummy.cpp.obj
 .PHONY : Dummy.obj
 
@@ -198,6 +222,54 @@ Dummy.cpp.s:
 	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Dummy.cpp.s
 .PHONY : Dummy.cpp.s
 
+Kreis.obj: Kreis.cpp.obj
+.PHONY : Kreis.obj
+
+# target to build an object file
+Kreis.cpp.obj:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Kreis.cpp.obj
+.PHONY : Kreis.cpp.obj
+
+Kreis.i: Kreis.cpp.i
+.PHONY : Kreis.i
+
+# target to preprocess a source file
+Kreis.cpp.i:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Kreis.cpp.i
+.PHONY : Kreis.cpp.i
+
+Kreis.s: Kreis.cpp.s
+.PHONY : Kreis.s
+
+# target to generate assembly for a file
+Kreis.cpp.s:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Kreis.cpp.s
+.PHONY : Kreis.cpp.s
+
+Rechteck.obj: Rechteck.cpp.obj
+.PHONY : Rechteck.obj
+
+# target to build an object file
+Rechteck.cpp.obj:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Rechteck.cpp.obj
+.PHONY : Rechteck.cpp.obj
+
+Rechteck.i: Rechteck.cpp.i
+.PHONY : Rechteck.i
+
+# target to preprocess a source file
+Rechteck.cpp.i:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Rechteck.cpp.i
+.PHONY : Rechteck.cpp.i
+
+Rechteck.s: Rechteck.cpp.s
+.PHONY : Rechteck.s
+
+# target to generate assembly for a file
+Rechteck.cpp.s:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Rechteck.cpp.s
+.PHONY : Rechteck.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -211,9 +283,18 @@ help:
 	@echo ... list_install_components
 	@echo ... rebuild_cache
 	@echo ... src
+	@echo ... Dreieck.obj
+	@echo ... Dreieck.i
+	@echo ... Dreieck.s
 	@echo ... Dummy.obj
 	@echo ... Dummy.i
 	@echo ... Dummy.s
+	@echo ... Kreis.obj
+	@echo ... Kreis.i
+	@echo ... Kreis.s
+	@echo ... Rechteck.obj
+	@echo ... Rechteck.i
+	@echo ... Rechteck.s
 .PHONY : help
 
 
