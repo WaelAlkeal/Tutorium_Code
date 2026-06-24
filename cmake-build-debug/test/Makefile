@@ -198,6 +198,30 @@ test1.cpp.s:
 	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f test\CMakeFiles\Google_Tests_run.dir\build.make test/CMakeFiles/Google_Tests_run.dir/test1.cpp.s
 .PHONY : test1.cpp.s
 
+testRaumubewachungssystem.obj: testRaumubewachungssystem.cpp.obj
+.PHONY : testRaumubewachungssystem.obj
+
+# target to build an object file
+testRaumubewachungssystem.cpp.obj:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f test\CMakeFiles\Google_Tests_run.dir\build.make test/CMakeFiles/Google_Tests_run.dir/testRaumubewachungssystem.cpp.obj
+.PHONY : testRaumubewachungssystem.cpp.obj
+
+testRaumubewachungssystem.i: testRaumubewachungssystem.cpp.i
+.PHONY : testRaumubewachungssystem.i
+
+# target to preprocess a source file
+testRaumubewachungssystem.cpp.i:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f test\CMakeFiles\Google_Tests_run.dir\build.make test/CMakeFiles/Google_Tests_run.dir/testRaumubewachungssystem.cpp.i
+.PHONY : testRaumubewachungssystem.cpp.i
+
+testRaumubewachungssystem.s: testRaumubewachungssystem.cpp.s
+.PHONY : testRaumubewachungssystem.s
+
+# target to generate assembly for a file
+testRaumubewachungssystem.cpp.s:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f test\CMakeFiles\Google_Tests_run.dir\build.make test/CMakeFiles/Google_Tests_run.dir/testRaumubewachungssystem.cpp.s
+.PHONY : testRaumubewachungssystem.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -214,6 +238,9 @@ help:
 	@echo ... test1.obj
 	@echo ... test1.i
 	@echo ... test1.s
+	@echo ... testRaumubewachungssystem.obj
+	@echo ... testRaumubewachungssystem.i
+	@echo ... testRaumubewachungssystem.s
 .PHONY : help
 
 
