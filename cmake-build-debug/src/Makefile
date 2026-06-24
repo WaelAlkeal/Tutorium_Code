@@ -198,30 +198,6 @@ Dummy.cpp.s:
 	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Dummy.cpp.s
 .PHONY : Dummy.cpp.s
 
-Vater.obj: Vater.cpp.obj
-.PHONY : Vater.obj
-
-# target to build an object file
-Vater.cpp.obj:
-	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Vater.cpp.obj
-.PHONY : Vater.cpp.obj
-
-Vater.i: Vater.cpp.i
-.PHONY : Vater.i
-
-# target to preprocess a source file
-Vater.cpp.i:
-	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Vater.cpp.i
-.PHONY : Vater.cpp.i
-
-Vater.s: Vater.cpp.s
-.PHONY : Vater.s
-
-# target to generate assembly for a file
-Vater.cpp.s:
-	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Vater.cpp.s
-.PHONY : Vater.cpp.s
-
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -238,9 +214,6 @@ help:
 	@echo ... Dummy.obj
 	@echo ... Dummy.i
 	@echo ... Dummy.s
-	@echo ... Vater.obj
-	@echo ... Vater.i
-	@echo ... Vater.s
 .PHONY : help
 
 
