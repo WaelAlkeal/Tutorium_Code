@@ -9,6 +9,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Wael/Tutorium/SS26/MT/Tutorium_Code/src/Dummy.cpp" "src/CMakeFiles/src.dir/Dummy.cpp.obj" "gcc" "src/CMakeFiles/src.dir/Dummy.cpp.obj.d"
+  "C:/Wael/Tutorium/SS26/MT/Tutorium_Code/src/Mutter.cpp" "src/CMakeFiles/src.dir/Mutter.cpp.obj" "gcc" "src/CMakeFiles/src.dir/Mutter.cpp.obj.d"
+  "C:/Wael/Tutorium/SS26/MT/Tutorium_Code/src/Sohn.cpp" "src/CMakeFiles/src.dir/Sohn.cpp.obj" "gcc" "src/CMakeFiles/src.dir/Sohn.cpp.obj.d"
   "C:/Wael/Tutorium/SS26/MT/Tutorium_Code/src/Vater.cpp" "src/CMakeFiles/src.dir/Vater.cpp.obj" "gcc" "src/CMakeFiles/src.dir/Vater.cpp.obj.d"
   )
 

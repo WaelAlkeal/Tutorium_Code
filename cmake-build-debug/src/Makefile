@@ -198,6 +198,54 @@ Dummy.cpp.s:
 	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Dummy.cpp.s
 .PHONY : Dummy.cpp.s
 
+Mutter.obj: Mutter.cpp.obj
+.PHONY : Mutter.obj
+
+# target to build an object file
+Mutter.cpp.obj:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Mutter.cpp.obj
+.PHONY : Mutter.cpp.obj
+
+Mutter.i: Mutter.cpp.i
+.PHONY : Mutter.i
+
+# target to preprocess a source file
+Mutter.cpp.i:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Mutter.cpp.i
+.PHONY : Mutter.cpp.i
+
+Mutter.s: Mutter.cpp.s
+.PHONY : Mutter.s
+
+# target to generate assembly for a file
+Mutter.cpp.s:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Mutter.cpp.s
+.PHONY : Mutter.cpp.s
+
+Sohn.obj: Sohn.cpp.obj
+.PHONY : Sohn.obj
+
+# target to build an object file
+Sohn.cpp.obj:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Sohn.cpp.obj
+.PHONY : Sohn.cpp.obj
+
+Sohn.i: Sohn.cpp.i
+.PHONY : Sohn.i
+
+# target to preprocess a source file
+Sohn.cpp.i:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Sohn.cpp.i
+.PHONY : Sohn.cpp.i
+
+Sohn.s: Sohn.cpp.s
+.PHONY : Sohn.s
+
+# target to generate assembly for a file
+Sohn.cpp.s:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Sohn.cpp.s
+.PHONY : Sohn.cpp.s
+
 Vater.obj: Vater.cpp.obj
 .PHONY : Vater.obj
 
@@ -238,6 +286,12 @@ help:
 	@echo ... Dummy.obj
 	@echo ... Dummy.i
 	@echo ... Dummy.s
+	@echo ... Mutter.obj
+	@echo ... Mutter.i
+	@echo ... Mutter.s
+	@echo ... Sohn.obj
+	@echo ... Sohn.i
+	@echo ... Sohn.s
 	@echo ... Vater.obj
 	@echo ... Vater.i
 	@echo ... Vater.s

@@ -1,8 +1,12 @@
 project(src)
 
 set(SOURCE_FILES
-        Dummy.cpp
-        Dummy.h
+        Vater.cpp
+        Vater.h
+        Mutter.cpp
+        Mutter.h
+        Sohn.cpp
+        Sohn.h
 
 )
 
