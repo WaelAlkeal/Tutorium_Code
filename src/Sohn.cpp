@@ -9,11 +9,12 @@ Sohn::Sohn() {
     this->height = 1;
 
     // von Mutter
+
     this->nameM= "Hasan";// public Attribute dierekter zugriff auch ohne Vererbung
     this->statusM = false;
     this->kontoM = 0; // Protected Attribut dierekter zugriff
     setAlterM(4);// private Attribut kein zugriff nur über set oder get
-    getAlterM();
+
     // von Vater
     this->kontoV = 11; //Protected
     setAlterV(22); // private

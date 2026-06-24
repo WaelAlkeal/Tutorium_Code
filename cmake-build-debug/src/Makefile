@@ -174,30 +174,6 @@ src/fast:
 	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/build
 .PHONY : src/fast
 
-Dummy.obj: Dummy.cpp.obj
-.PHONY : Dummy.obj
-
-# target to build an object file
-Dummy.cpp.obj:
-	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Dummy.cpp.obj
-.PHONY : Dummy.cpp.obj
-
-Dummy.i: Dummy.cpp.i
-.PHONY : Dummy.i
-
-# target to preprocess a source file
-Dummy.cpp.i:
-	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Dummy.cpp.i
-.PHONY : Dummy.cpp.i
-
-Dummy.s: Dummy.cpp.s
-.PHONY : Dummy.s
-
-# target to generate assembly for a file
-Dummy.cpp.s:
-	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Dummy.cpp.s
-.PHONY : Dummy.cpp.s
-
 Mutter.obj: Mutter.cpp.obj
 .PHONY : Mutter.obj
 
@@ -283,9 +259,6 @@ help:
 	@echo ... list_install_components
 	@echo ... rebuild_cache
 	@echo ... src
-	@echo ... Dummy.obj
-	@echo ... Dummy.i
-	@echo ... Dummy.s
 	@echo ... Mutter.obj
 	@echo ... Mutter.i
 	@echo ... Mutter.s
