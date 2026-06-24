@@ -1,8 +1,13 @@
 project(src)
 
 set(SOURCE_FILES
-        Dummy.cpp
-        Dummy.h
+        IInternetProvider.h
+        DSLProvider.cpp
+        DSLProvider.h
+        FiberProvider.cpp
+        FiberProvider.h
+        Vergleicher.cpp
+        Vergleicher.h
 
 )
 

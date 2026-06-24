@@ -1,6 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/src.dir/Dummy.cpp.obj"
-  "CMakeFiles/src.dir/Dummy.cpp.obj.d"
+  "CMakeFiles/src.dir/DSLProvider.cpp.obj"
+  "CMakeFiles/src.dir/DSLProvider.cpp.obj.d"
+  "CMakeFiles/src.dir/FiberProvider.cpp.obj"
+  "CMakeFiles/src.dir/FiberProvider.cpp.obj.d"
+  "CMakeFiles/src.dir/Vergleicher.cpp.obj"
+  "CMakeFiles/src.dir/Vergleicher.cpp.obj.d"
   "libsrc.a"
   "libsrc.pdb"
 )

@@ -174,29 +174,77 @@ src/fast:
 	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/build
 .PHONY : src/fast
 
-Dummy.obj: Dummy.cpp.obj
-.PHONY : Dummy.obj
+DSLProvider.obj: DSLProvider.cpp.obj
+.PHONY : DSLProvider.obj
 
 # target to build an object file
-Dummy.cpp.obj:
-	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Dummy.cpp.obj
-.PHONY : Dummy.cpp.obj
+DSLProvider.cpp.obj:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/DSLProvider.cpp.obj
+.PHONY : DSLProvider.cpp.obj
 
-Dummy.i: Dummy.cpp.i
-.PHONY : Dummy.i
+DSLProvider.i: DSLProvider.cpp.i
+.PHONY : DSLProvider.i
 
 # target to preprocess a source file
-Dummy.cpp.i:
-	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Dummy.cpp.i
-.PHONY : Dummy.cpp.i
+DSLProvider.cpp.i:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/DSLProvider.cpp.i
+.PHONY : DSLProvider.cpp.i
 
-Dummy.s: Dummy.cpp.s
-.PHONY : Dummy.s
+DSLProvider.s: DSLProvider.cpp.s
+.PHONY : DSLProvider.s
 
 # target to generate assembly for a file
-Dummy.cpp.s:
-	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Dummy.cpp.s
-.PHONY : Dummy.cpp.s
+DSLProvider.cpp.s:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/DSLProvider.cpp.s
+.PHONY : DSLProvider.cpp.s
+
+FiberProvider.obj: FiberProvider.cpp.obj
+.PHONY : FiberProvider.obj
+
+# target to build an object file
+FiberProvider.cpp.obj:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/FiberProvider.cpp.obj
+.PHONY : FiberProvider.cpp.obj
+
+FiberProvider.i: FiberProvider.cpp.i
+.PHONY : FiberProvider.i
+
+# target to preprocess a source file
+FiberProvider.cpp.i:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/FiberProvider.cpp.i
+.PHONY : FiberProvider.cpp.i
+
+FiberProvider.s: FiberProvider.cpp.s
+.PHONY : FiberProvider.s
+
+# target to generate assembly for a file
+FiberProvider.cpp.s:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/FiberProvider.cpp.s
+.PHONY : FiberProvider.cpp.s
+
+Vergleicher.obj: Vergleicher.cpp.obj
+.PHONY : Vergleicher.obj
+
+# target to build an object file
+Vergleicher.cpp.obj:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Vergleicher.cpp.obj
+.PHONY : Vergleicher.cpp.obj
+
+Vergleicher.i: Vergleicher.cpp.i
+.PHONY : Vergleicher.i
+
+# target to preprocess a source file
+Vergleicher.cpp.i:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Vergleicher.cpp.i
+.PHONY : Vergleicher.cpp.i
+
+Vergleicher.s: Vergleicher.cpp.s
+.PHONY : Vergleicher.s
+
+# target to generate assembly for a file
+Vergleicher.cpp.s:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Vergleicher.cpp.s
+.PHONY : Vergleicher.cpp.s
 
 # Help Target
 help:
@@ -211,9 +259,15 @@ help:
 	@echo ... list_install_components
 	@echo ... rebuild_cache
 	@echo ... src
-	@echo ... Dummy.obj
-	@echo ... Dummy.i
-	@echo ... Dummy.s
+	@echo ... DSLProvider.obj
+	@echo ... DSLProvider.i
+	@echo ... DSLProvider.s
+	@echo ... FiberProvider.obj
+	@echo ... FiberProvider.i
+	@echo ... FiberProvider.s
+	@echo ... Vergleicher.obj
+	@echo ... Vergleicher.i
+	@echo ... Vergleicher.s
 .PHONY : help
 
 
