@@ -174,29 +174,149 @@ src/fast:
 	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/build
 .PHONY : src/fast
 
-Dummy.obj: Dummy.cpp.obj
-.PHONY : Dummy.obj
+AreaMonitor.obj: AreaMonitor.cpp.obj
+.PHONY : AreaMonitor.obj
 
 # target to build an object file
-Dummy.cpp.obj:
-	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Dummy.cpp.obj
-.PHONY : Dummy.cpp.obj
+AreaMonitor.cpp.obj:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/AreaMonitor.cpp.obj
+.PHONY : AreaMonitor.cpp.obj
 
-Dummy.i: Dummy.cpp.i
-.PHONY : Dummy.i
+AreaMonitor.i: AreaMonitor.cpp.i
+.PHONY : AreaMonitor.i
 
 # target to preprocess a source file
-Dummy.cpp.i:
-	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Dummy.cpp.i
-.PHONY : Dummy.cpp.i
+AreaMonitor.cpp.i:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/AreaMonitor.cpp.i
+.PHONY : AreaMonitor.cpp.i
 
-Dummy.s: Dummy.cpp.s
-.PHONY : Dummy.s
+AreaMonitor.s: AreaMonitor.cpp.s
+.PHONY : AreaMonitor.s
 
 # target to generate assembly for a file
-Dummy.cpp.s:
-	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Dummy.cpp.s
-.PHONY : Dummy.cpp.s
+AreaMonitor.cpp.s:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/AreaMonitor.cpp.s
+.PHONY : AreaMonitor.cpp.s
+
+CO2FSM.obj: CO2FSM.cpp.obj
+.PHONY : CO2FSM.obj
+
+# target to build an object file
+CO2FSM.cpp.obj:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/CO2FSM.cpp.obj
+.PHONY : CO2FSM.cpp.obj
+
+CO2FSM.i: CO2FSM.cpp.i
+.PHONY : CO2FSM.i
+
+# target to preprocess a source file
+CO2FSM.cpp.i:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/CO2FSM.cpp.i
+.PHONY : CO2FSM.cpp.i
+
+CO2FSM.s: CO2FSM.cpp.s
+.PHONY : CO2FSM.s
+
+# target to generate assembly for a file
+CO2FSM.cpp.s:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/CO2FSM.cpp.s
+.PHONY : CO2FSM.cpp.s
+
+CO2Messung.obj: CO2Messung.cpp.obj
+.PHONY : CO2Messung.obj
+
+# target to build an object file
+CO2Messung.cpp.obj:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/CO2Messung.cpp.obj
+.PHONY : CO2Messung.cpp.obj
+
+CO2Messung.i: CO2Messung.cpp.i
+.PHONY : CO2Messung.i
+
+# target to preprocess a source file
+CO2Messung.cpp.i:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/CO2Messung.cpp.i
+.PHONY : CO2Messung.cpp.i
+
+CO2Messung.s: CO2Messung.cpp.s
+.PHONY : CO2Messung.s
+
+# target to generate assembly for a file
+CO2Messung.cpp.s:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/CO2Messung.cpp.s
+.PHONY : CO2Messung.cpp.s
+
+FileHandler.obj: FileHandler.cpp.obj
+.PHONY : FileHandler.obj
+
+# target to build an object file
+FileHandler.cpp.obj:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/FileHandler.cpp.obj
+.PHONY : FileHandler.cpp.obj
+
+FileHandler.i: FileHandler.cpp.i
+.PHONY : FileHandler.i
+
+# target to preprocess a source file
+FileHandler.cpp.i:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/FileHandler.cpp.i
+.PHONY : FileHandler.cpp.i
+
+FileHandler.s: FileHandler.cpp.s
+.PHONY : FileHandler.s
+
+# target to generate assembly for a file
+FileHandler.cpp.s:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/FileHandler.cpp.s
+.PHONY : FileHandler.cpp.s
+
+HumidFSM.obj: HumidFSM.cpp.obj
+.PHONY : HumidFSM.obj
+
+# target to build an object file
+HumidFSM.cpp.obj:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/HumidFSM.cpp.obj
+.PHONY : HumidFSM.cpp.obj
+
+HumidFSM.i: HumidFSM.cpp.i
+.PHONY : HumidFSM.i
+
+# target to preprocess a source file
+HumidFSM.cpp.i:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/HumidFSM.cpp.i
+.PHONY : HumidFSM.cpp.i
+
+HumidFSM.s: HumidFSM.cpp.s
+.PHONY : HumidFSM.s
+
+# target to generate assembly for a file
+HumidFSM.cpp.s:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/HumidFSM.cpp.s
+.PHONY : HumidFSM.cpp.s
+
+Humidifier.obj: Humidifier.cpp.obj
+.PHONY : Humidifier.obj
+
+# target to build an object file
+Humidifier.cpp.obj:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Humidifier.cpp.obj
+.PHONY : Humidifier.cpp.obj
+
+Humidifier.i: Humidifier.cpp.i
+.PHONY : Humidifier.i
+
+# target to preprocess a source file
+Humidifier.cpp.i:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Humidifier.cpp.i
+.PHONY : Humidifier.cpp.i
+
+Humidifier.s: Humidifier.cpp.s
+.PHONY : Humidifier.s
+
+# target to generate assembly for a file
+Humidifier.cpp.s:
+	cd /d C:\Wael\Tutorium\SS26\MT\Tutorium_Code\cmake-build-debug && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\src.dir\build.make src/CMakeFiles/src.dir/Humidifier.cpp.s
+.PHONY : Humidifier.cpp.s
 
 # Help Target
 help:
@@ -211,9 +331,24 @@ help:
 	@echo ... list_install_components
 	@echo ... rebuild_cache
 	@echo ... src
-	@echo ... Dummy.obj
-	@echo ... Dummy.i
-	@echo ... Dummy.s
+	@echo ... AreaMonitor.obj
+	@echo ... AreaMonitor.i
+	@echo ... AreaMonitor.s
+	@echo ... CO2FSM.obj
+	@echo ... CO2FSM.i
+	@echo ... CO2FSM.s
+	@echo ... CO2Messung.obj
+	@echo ... CO2Messung.i
+	@echo ... CO2Messung.s
+	@echo ... FileHandler.obj
+	@echo ... FileHandler.i
+	@echo ... FileHandler.s
+	@echo ... HumidFSM.obj
+	@echo ... HumidFSM.i
+	@echo ... HumidFSM.s
+	@echo ... Humidifier.obj
+	@echo ... Humidifier.i
+	@echo ... Humidifier.s
 .PHONY : help
 
 
